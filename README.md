@@ -1,2 +1,2 @@
 # abcpy
-abcdepy
+Testing init Python project
